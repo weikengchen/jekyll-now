@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Update 2017-08-03
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Weikeng is packing up the things for Berkeley, and setting up the blog (later should be more technical).
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Please come to [my website at Berkeley](https://people.eecs.berkeley.edu/~weikeng/).

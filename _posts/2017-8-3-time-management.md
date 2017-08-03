@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resource for Time Management
+title: Resource for Time Management at Berkeley
 ---
 
 **Newton's three laws of graduation ([Ph.D. Comics 221/222/223](http://phdcomics.com/comics/archive.php?comicid=221))** 
@@ -10,6 +10,7 @@ title: Resource for Time Management
 2. The age, _a_, of a doctoral process is directly proportional to the flexibility, _f_, given by the advisor and inversely proportional to the student's motivation, _m_.
 
 3. For every action towards graduation there is an equal and opposite distraction.
+<!--more-->
 
 **Challenge**
 
